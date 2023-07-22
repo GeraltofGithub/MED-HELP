@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">registration_form</string>
+    <string name="medhelp">MedHelp</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="contact_number_whatsapp">CONTACT NUMBER (WHATSAPP)</string>
+    <string name="contactnumber_whatsapp">CONTACTNUMBER(WHATSAPP)</string>
+    <string name="contact_number_calling">CONTACT NUMBER (CALLING)</string>
+    <string name="contactnumber_calling">CONTACTNUMBER(CALLING)</string>
+    <string name="contact_number_calling">CONTACT NUMBER (CALLING)</string>
+    <string name="contact_number_whatsapp">CONTACT NUMBER (WHATSAPP)</string>
+</resources>

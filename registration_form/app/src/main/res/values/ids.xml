@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="confirmpassword" type="id">confirmpassword</item>
+    <item name="password" type="id">password</item>
+    <item name="contactnumber_whatsapp" type="id">contactnumer(whatsapp)</item>
+    <item name="contactnumber_calling" type="id">contactnumber_calling</item>
+</resources>

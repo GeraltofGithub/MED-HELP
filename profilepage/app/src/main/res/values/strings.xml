@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">profile page</string>
+    <string name="full_name">Full Name</string>
+    <string name="chanchal_halwe">chanchal halwe</string>
+    <string name="contact_number">contact number</string>
+    <string name="_7836455678">7836455678</string>
+    <string name="email_id">email id</string>
+    <string name="chanchalhalwe1008_gmail_com">chanchalhalwe1008@gmail.com</string>
+    <string name="address">address</string>
+    <string name="ratan_nagar_nagpur">ratan nagar nagpur</string>
+    <string name="update">Update</string>
+</resources>
